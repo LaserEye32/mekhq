@@ -360,7 +360,7 @@
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -475,7 +475,7 @@
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -524,11 +524,11 @@
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -580,7 +580,7 @@
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -683,7 +683,7 @@
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -849,6 +849,14 @@
 			<date>2571-07-09</date>
 			<faction>MOC</faction>
 		</factionChange>
+		<factionChange> Conquered in early April
+			<date>2583-04-03</date>
+			<faction>SL</faction>
+		</factionChange>
+		<factionChange> date noncanon
+			<date>2597-01-01</date>
+			<faction>MOC</faction>
+		</factionChange>
 	</planet>
 	<planet>
 		<name>Agematsu</name>
@@ -872,9 +880,7 @@
 		<temperature>45</temperature>
 		<climate>4</climate>
 		<percentWater>14</percentWater>
-		<hpg>b</hpg>
 		<lifeForm>0</lifeForm>
-		<socioIndustrial>B-B-D-C-D </socioIndustrial>
 		<landMass>Agematsu Prime</landMass>
 		<landMass>Little Irehuna Island</landMass>
 		<desc>An inhospitable rock in space, that was colonized by a religious sect looking to escape from humanity’s corruption, In the late 3060 Ishikawajima‐Harima began producing Battle Armor here.</desc>
@@ -941,7 +947,7 @@
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 		<spectralClass>K</spectralClass>
@@ -954,10 +960,8 @@
 		<climate>5</climate>
 		<percentWater>70</percentWater>
 		<zenithCharge>true</zenithCharge>
-		<hpg>B</hpg>
 		<lifeForm>5</lifeForm>
 		<satellite>None</satellite>
-		<socioIndustrial>B-C-B-B-C</socioIndustrial>
 		<landMass>Andrine (Ladakh and Srinagar)</landMass>
 		<landMass>Simla</landMass>
 		<desc>Aitutaki was originally established as a trade way-station by the Principality of Regulus, however the planet’s economy has since switched to an agricultural center for the region. The planet has also been a primary training hub for the Regulan military since the early 25th Century.&#xA;&#xA;Aitutaki’s early settlers made a unique distinction by creating two capital cities, Ladakh and Srinagar. Ladakh was created as the center of government and Srinagar as the center for financial, commercial and industrial concerns with the intent of minimizing interference between commerce and government.</desc>
@@ -983,15 +987,11 @@
 		<pressure>4</pressure>
 		<temperature>43</temperature>
 		<percentWater>81</percentWater>
-		<zenithCharge>TRUE </zenithCharge>
-		<nadirCharge>TRUE</nadirCharge>
-		<hpg>b</hpg>
 		<lifeForm>0</lifeForm>
 		<satellite>Wester</satellite>
 		<satellite>Julich</satellite>
 		<satellite>Burtscheid</satellite>
 		<climate>5</climate>
-		<socioIndustrial>B-B-A-B-D</socioIndustrial>
 		<landMass>Aachen (Rheinphalia)</landMass>
 		<desc>Aix-la-Chapelle is an inhospitable world with high atmospheric pressure, chemical taints in the air, and the harsh weather patterns that make the planet barely tolerable to humans, however its one large landmass is blessed with an abundance of natural resources. Diplan 'Mechyards has a factory on world that produces most of the components for the mechs it builds on planet. Massive greenhouses produce grown foodstuff for the local inhabitants. But meats and soil for the greenhouses must still be imported from off-world due to the worlds climate.</desc>
 	</planet>
@@ -1012,6 +1012,15 @@
 			<date>3057-09-18</date>
 			<faction>LA</faction>
 		</factionChange>
+		<factionChange> Democracy Now raids - date as Mid-Feb 3077
+			<date>3077-02-17</date>
+			<faction>LA,REB</faction>
+		</factionChange>
+		<factionChange>
+			<date>3077-05-01</date>
+			<faction>LA</faction>
+		</factionChange>
+		<landmass>(Cuir Vert)</landmass>
 	</planet>
 	<planet>
 		<name>Al Hillah</name>
@@ -1039,7 +1048,11 @@
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3030-01-01</date>
+			<date>3028-08-19</date>
+			<faction>DC,LA</faction>
+		</factionChange>
+		<factionChange> Date only lists a September
+			<date>3028-09-01</date>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
@@ -1083,7 +1096,7 @@
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -1125,7 +1138,7 @@
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -1143,10 +1156,8 @@
 		<subtype>9</subtype>
 		<luminosity>III</luminosity>
 		<sysPos>5</sysPos>
-		<socioIndustrial>A-A-A-A-D</socioIndustrial>
 		<satellite>Taliswan</satellite>
 		<landMass>Cedar Rock (Homai-Zaki)</landMass>
-		<hpg>A</hpg>
 		<desc>Al Na‘ir is the fifth planet from its parent star and is the only rock in the system that is even remotely capable of supporting life, with a sulfur-tainted atmosphere too thin for unassisted breathing and a surface water supply limited almost exclusively to the polar icecaps. Despite these drawbacks, Al Na‘ir was one of the Draconis Combine‘s more heavily industrialized border worlds in its heyday, home at one time to the Yori MechWorks, manufacturer of the galaxy-renowned Atlas, and Scarborough Manufacturers, makers of the Pegasus, Scimitar and other conventional combat vehicles.The Azami, a Muslim sect, initially settled Al Na‘ir as a base of operations for a mining industry, focused on the plentiful mineral-rich asteroids in the system. When the Combine took over, two of its largest military corporations—Luthien Armor Works and Alshain Weapons—exploited these valuable resources by subsidizing military industries on the planet. Yori MechWorks was established on Yori, the largest of the asteroids that orbit between Al Na‘ir and the fourth planet in the system, Al Abila. Scarborough Manufacturers was founded on the smaller southern continent of Scarborough, from which it took its name. Perhaps in part because of the initial Azami presence, coupled with the Combine‘s xenophobic attitude toward non-Japanese cultures, the Kuritan leadership eventually established the Combine‘s School for Cultural Investigation on Al Na‘ir‘s barren surface. Despite the extremely inhospitable locale, many Combine citizens flocked to Al Na‘ir to study the benefits and drawbacks of the non-Japanese cultures that thrived in realms beyond the reach of House Kurita. By the time of the Clan Invasion, Al Na‘ir had become an important part of the Combine‘s strategic infrastructure and economy, with a population nearing one billion, including those who lived in the mining and refining stations in the asteroid belt. The planet remained under heavy defensive guard by the Combine, though raids and assaults were infrequent, even by the Dragon‘s closest enemies. When the Blakist Jihad hit, however, Al Na‘ir‘s luck changed for the worse. Employing a battle fleet of fighter-carrying DropShips, backed up by mercenary ‘Mech forces, the Word of Blake systematically ravaged Yori MechWorks‘ asteroid mining and manufacturing centers, simultaneously striking the planet‘s surface defensive units. The assault crippled the central planetary industry, destroyed Yori‘s surface assembly plant, and left millions dead as domed cities were breached in the heavy fighting , including the former capital of Homai-Zaki. As of the 32nd century, only Scarborough Manufacturers—which now produces more heavy construction vehicles than fighting craft—and a handful of underground settlements linked to decimated mining operations remain. Devlin Stone‘s relocation plan and efforts to restore the less devastated settlements helped lure people back to Al Na‘ir, many of whom took up residence in the new prefecture capital city of Phoenix, located on the northern plains of Cedar Rock, Al Na‘ir‘s larger continent. The planetary capital of Homai-Zaki, repaired and repressurized after the Jihad, is on Cedar Rock as well.</desc>
 	</planet>
 	<planet>
@@ -1175,11 +1186,8 @@
 		<temperature>45</temperature>
 		<climate>3</climate>
 		<percentWater>80</percentWater>
-		<zenithCharge>true</zenithCharge>
-		<hpg>B</hpg>
 		<lifeForm>3</lifeForm>
 		<satellite>Tiber</satellite>
-		<socioIndustrial>A-A-A-A-B</socioIndustrial>
 		<landMass>New Brunswick (Craiova)</landMass>
 		<landMass>New Jordan</landMass>
 		<desc>Due to blunders during early colonization which led to an incredible death toll to colonists and local wildlife alike from terrestrial and native diseases, strict environmental and settlement regulations were put in place on Alarion that are still in effect. While these regulations strive to preserve the ecosystem and have limited how much of  Alarion can be settled, they have not stopped the planet from becoming an economic and industrial powerhouse in the Lyran Commonwealth. Alarion is home to Jumpship, Aerospace and BattleMech factories, making it a world of extreme importance to the Commonwealth.&#xA;&#xA;Alarion is primarily settled by people of German, Romanian and English descent.</desc>
@@ -1198,11 +1206,7 @@
 			<faction>AB</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
-			<faction>DC</faction>
-		</factionChange>
-		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -1234,11 +1238,11 @@
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -1276,10 +1280,7 @@
 		<climate>2</climate>
 		<temperature>25</temperature>
 		<percentWater>12</percentWater>
-		<nadirCharge>True</nadirCharge>
-		<hpg>A</hpg>
 		<lifeForm>5</lifeForm>
-		<socioIndustrial>B-B-C-D-D</socioIndustrial>
 		<landMass>Albiero Prime (Corant City)</landMass>
 		<desc>Albiero is a nearly dead world whose natural resources are almost completely exhausted. Only the fact that the other worlds in the Albiero Prefecture are in even worse shape keeps this prefecture capital alive. Before it reached its current state, Albiero held vast deposits of copper and iron ore. These minerals led several mining concerns to arrive and exploit the resources. Unfortunately after the fall of the Star League the advanced mining machines weren't serviceable, and eventually broke down completely. The resulting loss of income depressed the local economy. The only group who really benefited from Albiero's state was the DCMS. The extensive mining operations left a labyrinth of tunnels under the world's surface which proved to be an excellent training facility.</desc>
 	</planet>
@@ -1349,7 +1350,6 @@
 		<temperature>25</temperature>
 		<percentWater>60</percentWater>
 		<lifeForm>5</lifeForm>
-		<hpg>A</hpg>
 		<desc>No description available.</desc>
 	</planet>
 	<planet>
@@ -1371,16 +1371,10 @@
 		<subtype>2</subtype>
 		<luminosity>IV</luminosity>
 		<sysPos>3</sysPos>
-		<socioIndustrial>C-C-B-D-B</socioIndustrial>
 		<satellite>Sjaeland</satellite>
 		<satellite>Skane</satellite>
 		<landMass>(Christiana)</landMass>
-		<hpg>C</hpg>
 		<desc>Alborg has the most comfortable climate of the four JarnFolk planets. Alborg boasts a temperate climate, lush fauna, and fertile arable land. In addition the planet has significant mineral wealth used for what little industry the JarnFolk possess. Alborg is home to nearly half of the entire population of JarnFolk and is controlled by the most powerful families.</desc>
-		<factionChange>
-			<date>2571-07-09</date>
-			<faction>JF</faction>
-		</factionChange>
 	</planet>
 	<planet>
 		<name>Alchiba</name>
@@ -1428,7 +1422,7 @@
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -1493,7 +1487,7 @@
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -1603,7 +1597,7 @@
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -1618,9 +1612,6 @@
 		<subtype>5</subtype>
 		<luminosity>III</luminosity>
 		<sysPos>5</sysPos>
-		<zenithCharge>true</zenithCharge>
-		<nadirCharge>true</nadirCharge>
-		<hpg>A</hpg>
 		<lifeForm>7</lifeForm>
 		<desc>As of 3025 - Aldebaran is one of the oldest settled planets in the Confederation. It is a modest world with a moderate climate. Aldebaran has seen substantial fighting during the Succession Wars and remains a tempting target for both the Free World League and the Federated Suns due to it location in a natural invasion route to the interior of the Tikonov Commonality. Aldebaran has a permanent military base, home for the Ijori Warrior House regiment and several squadrons of aerospace fighters. Historically, Aldebaran has been a major commercial and industrial hub, and though much reduced in capacity due to the Succession War fighting, the planet still has a moderate and slowly growing industrial capacity.</desc>
 	</planet>
@@ -1716,11 +1707,8 @@
 		<temperature>33</temperature>
 		<climate>3</climate>
 		<percentWater>82</percentWater>
-		<zenithCharge>true</zenithCharge>
-		<hpg>B</hpg>
 		<lifeForm>5</lifeForm>
 		<satellite>Sinai</satellite>
-		<socioIndustrial>D-D-C-D-B</socioIndustrial>
 		<landMass>Cairusia</landMass>
 		<landMass>Jeddasia</landMass>
 		<desc>Alexandria was once a wealthy planet covered in modern cities and was a cultural center with some of the most famous art collections in the entire Inner Sphere. The planet also boasted a strong industrial base and vast natural resources. Unfortunately, the Succession Wars took their toll and near constant raids and invasions of this planet have reduced the cities to shambles, the beautiful countryside to barren war-torn fields. The only traces of the planet’s former glory can be found in the remote cities of Lam Pole and Cherbourg, which have survived due to possessing no military value.</desc>
@@ -1852,7 +1840,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -1909,7 +1897,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -1972,7 +1960,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2014,7 +2002,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -2084,7 +2072,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2149,7 +2137,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2210,7 +2198,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2466,7 +2454,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2568,7 +2556,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -2614,7 +2602,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2697,7 +2685,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2755,7 +2743,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -2910,7 +2898,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -2948,7 +2936,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -3049,7 +3037,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -3228,7 +3216,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<spectralClass>A</spectralClass>
@@ -3273,7 +3261,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -3315,7 +3303,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -3595,7 +3583,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -3908,7 +3896,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -4042,7 +4030,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -4241,7 +4229,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -4458,7 +4446,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -4573,20 +4561,20 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>SLIE</faction>
 		</factionChange>
 		<factionChange>
-			<date>2802-06-11</date>
-			<faction>CGB,CSA,CSV</faction>
-		</factionChange>
-		<factionChange>
-			<date>2821-01-01</date>
+			<date>2802-01-29</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>2822-01-01</date>
-			<faction>CLAN</faction>
+			<date>2821-07-02</date>
+			<faction>IND,CSA,CSV,CGB,CBS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3067-01-01</date>
+			<date>2821-12-14</date>
 			<faction>CSA,CSV,CGB,CBS</faction>
+		</factionChange>
+		<factionChange>
+			<date>3059-01-01</date>
+			<faction>CSA,CSV,CGB</faction>
 		</factionChange>
 		<factionChange>
 			<date>3067-01-01</date>
@@ -5055,7 +5043,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -5106,7 +5094,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -5140,7 +5128,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -5245,11 +5233,11 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -5275,7 +5263,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -5440,7 +5428,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>4</pressure>
@@ -5533,7 +5521,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -5541,7 +5529,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -5583,7 +5571,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -5693,7 +5681,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -5823,7 +5811,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -5897,7 +5885,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -6019,7 +6007,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -6148,7 +6136,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -6403,11 +6391,11 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -6425,7 +6413,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -6479,7 +6467,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -6645,7 +6633,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -7041,7 +7029,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -7180,7 +7168,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -7466,7 +7454,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -8227,7 +8215,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -8303,7 +8291,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -8597,7 +8585,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -8652,7 +8640,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -8816,7 +8804,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -9227,7 +9215,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -9650,7 +9638,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -9845,11 +9833,11 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -10647,7 +10635,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -10739,7 +10727,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -11196,11 +11184,11 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -11426,7 +11414,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -11663,7 +11651,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -11940,7 +11928,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<spectralClass>A</spectralClass>
@@ -12101,7 +12089,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<spectralClass>G</spectralClass>
@@ -12184,7 +12172,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -12470,7 +12458,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -12565,7 +12553,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -12788,7 +12776,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone,CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -12905,7 +12893,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -13090,7 +13078,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -13246,7 +13234,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -13443,7 +13431,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -13515,11 +13503,11 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -13721,7 +13709,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<spectralClass>G</spectralClass>
@@ -13929,7 +13917,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -14063,7 +14051,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -14104,7 +14092,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -14485,7 +14473,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -14547,7 +14535,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -14876,7 +14864,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -15111,7 +15099,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -15195,7 +15183,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -15382,7 +15370,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -15433,11 +15421,11 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -15601,7 +15589,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -16085,7 +16073,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -16486,7 +16474,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -16607,7 +16595,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -17167,7 +17155,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -17266,7 +17254,7 @@ Industrial, Command and logistical world, paperwork in this planet and its prefe
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -17813,7 +17801,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -17952,7 +17940,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -18025,7 +18013,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -18143,7 +18131,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -18257,7 +18245,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -18401,7 +18389,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 	</planet>
@@ -18697,7 +18685,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -18763,7 +18751,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -19353,7 +19341,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -19471,7 +19459,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -19521,7 +19509,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -19749,7 +19737,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -20320,11 +20308,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -20350,7 +20338,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<lifeForm>2</lifeForm>
@@ -20419,7 +20407,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<zenithCharge>True</zenithCharge>
@@ -20613,7 +20601,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -20659,7 +20647,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -21114,7 +21102,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -21186,7 +21174,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -21310,11 +21298,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -21376,7 +21364,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -21419,7 +21407,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -21782,7 +21770,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -21800,7 +21788,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -22097,7 +22085,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -22336,7 +22324,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -22602,7 +22590,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -22774,7 +22762,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>4</pressure>
@@ -22828,7 +22816,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -22881,7 +22869,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -23443,7 +23431,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -23465,7 +23453,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -23529,7 +23517,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -23605,7 +23593,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -23687,7 +23675,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -23853,7 +23841,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -24136,7 +24124,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -24195,7 +24183,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -24305,7 +24293,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -24508,7 +24496,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -24544,7 +24532,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -24872,7 +24860,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -24957,7 +24945,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -25063,11 +25051,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -25280,11 +25268,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -25306,7 +25294,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -25388,7 +25376,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -25490,7 +25478,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -25590,7 +25578,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -25689,7 +25677,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -26195,7 +26183,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -26793,7 +26781,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 	</planet>
@@ -26851,7 +26839,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -26927,7 +26915,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -27002,7 +26990,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -27097,7 +27085,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -27445,7 +27433,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -27707,7 +27695,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -27805,11 +27793,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -27923,7 +27911,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -28587,7 +28575,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -28601,11 +28589,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -28960,7 +28948,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -28972,7 +28960,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -29020,11 +29008,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -29378,11 +29366,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -29466,7 +29454,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -29634,7 +29622,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -29996,7 +29984,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -30030,7 +30018,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -30094,7 +30082,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -30220,7 +30208,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -30435,7 +30423,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -30759,7 +30747,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -30842,7 +30830,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 		<pressure>2</pressure>
@@ -30903,7 +30891,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -30990,7 +30978,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -30998,7 +30986,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 		<spectralClass>G</spectralClass>
@@ -31123,11 +31111,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -31363,7 +31351,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -31874,7 +31862,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -32096,11 +32084,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -32442,11 +32430,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -32492,7 +32480,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>MCM</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -32574,7 +32562,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -32710,7 +32698,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -32755,7 +32743,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -32789,7 +32777,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -33019,7 +33007,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -33088,7 +33076,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -33139,7 +33127,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -33195,7 +33183,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -33295,7 +33283,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -33395,7 +33383,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -33479,7 +33467,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -33627,7 +33615,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 		<spectralClass>F</spectralClass>
@@ -33809,7 +33797,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -33913,7 +33901,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -34390,7 +34378,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -34844,7 +34832,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -34996,7 +34984,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -35100,7 +35088,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -35166,7 +35154,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -35240,7 +35228,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -35310,7 +35298,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -35684,7 +35672,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -35752,11 +35740,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -35774,7 +35762,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -35845,7 +35833,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -35942,7 +35930,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -35988,7 +35976,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>OZP</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -35996,7 +35984,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -36030,7 +36018,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -36286,7 +36274,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -36320,7 +36308,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -36417,7 +36405,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -37097,11 +37085,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -37145,7 +37133,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -37418,7 +37406,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -37626,11 +37614,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -37724,7 +37712,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -38408,7 +38396,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 		<spectralClass>K</spectralClass>
@@ -38668,7 +38656,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -38974,7 +38962,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -39100,11 +39088,11 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 		<spectralClass>M</spectralClass>
@@ -39552,7 +39540,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -39780,7 +39768,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -39794,7 +39782,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -39885,7 +39873,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -39993,7 +39981,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -40140,7 +40128,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -40265,7 +40253,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -40446,7 +40434,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -40621,7 +40609,6 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 		<temperature>30</temperature>
 		<percentWater>50</percentWater>
 		<lifeForm>5</lifeForm>
-		<hpg>X</hpg>
 		<desc>No description available for Marshall. The system's 4th planet, Xian, is also inhabited and has a single satellite named Diamondstar and the highest life forms are plants.</desc>
 	</planet>
 	<planet>
@@ -40917,7 +40904,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -41096,7 +41083,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -41335,7 +41322,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -41728,7 +41715,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -41794,7 +41781,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -42075,7 +42062,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -42529,7 +42516,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -42795,7 +42782,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -43105,7 +43092,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -43529,7 +43516,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -43988,7 +43975,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -44050,7 +44037,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -44106,7 +44093,7 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -44383,7 +44370,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -44497,7 +44484,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -44560,7 +44547,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -44767,7 +44754,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -44895,7 +44882,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -45150,7 +45137,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -45358,7 +45345,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -45576,7 +45563,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -45629,7 +45616,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -45820,7 +45807,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -46118,7 +46105,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -46429,7 +46416,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -46485,7 +46472,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -46609,7 +46596,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -46763,7 +46750,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -47116,7 +47103,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -47156,7 +47143,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -47279,7 +47266,7 @@ spaceport of Laubenstein.</desc>
 			<faction>MERC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>2</pressure>
@@ -47655,7 +47642,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -47785,7 +47772,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -47983,7 +47970,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -48009,7 +47996,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -48479,7 +48466,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -49028,7 +49015,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<spectralClass>K</spectralClass>
@@ -49146,7 +49133,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -49429,7 +49416,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -49556,11 +49543,11 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -49770,7 +49757,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -50051,7 +50038,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<spectralClass>F</spectralClass>
@@ -50531,7 +50518,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -50609,7 +50596,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -50705,7 +50692,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -50776,7 +50763,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -50826,7 +50813,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -50900,7 +50887,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -51110,7 +51097,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -51325,7 +51312,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 	</planet>
@@ -51765,7 +51752,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -51805,11 +51792,11 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -51909,7 +51896,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -52166,7 +52153,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -52286,7 +52273,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -52626,7 +52613,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -53721,7 +53708,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -53849,7 +53836,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -54109,7 +54096,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CJF,CGB,CW</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -54205,7 +54192,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -54501,7 +54488,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -54695,7 +54682,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -54848,7 +54835,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55214,7 +55201,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55266,7 +55253,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55311,7 +55298,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -55379,7 +55366,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55455,7 +55442,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -55582,7 +55569,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55616,7 +55603,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -55638,7 +55625,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55684,7 +55671,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55858,7 +55845,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -55985,7 +55972,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -56317,7 +56304,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -56833,7 +56820,7 @@ spaceport of Laubenstein.</desc>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -56980,7 +56967,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -57014,7 +57001,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -57112,7 +57099,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -57169,7 +57156,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -57183,7 +57170,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -57370,7 +57357,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -57412,7 +57399,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -57450,7 +57437,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -57574,7 +57561,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -57863,11 +57850,11 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -57885,7 +57872,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -58068,7 +58055,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -58163,7 +58150,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -58376,7 +58363,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -58428,7 +58415,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -58498,7 +58485,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -58578,7 +58565,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -58725,7 +58712,7 @@ spaceport of Laubenstein.</desc>
 			<faction>AB</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -58830,7 +58817,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -58896,7 +58883,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -58948,7 +58935,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -59235,7 +59222,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>2</pressure>
@@ -59366,7 +59353,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -59530,7 +59517,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -59568,7 +59555,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -59614,7 +59601,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -59725,7 +59712,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -59815,7 +59802,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -60235,7 +60222,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -60492,7 +60479,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -60990,7 +60977,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -61130,11 +61117,11 @@ spaceport of Laubenstein.</desc>
 			<faction>MSC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -61236,11 +61223,11 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -61499,7 +61486,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -61582,7 +61569,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -61859,7 +61846,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -62075,7 +62062,7 @@ spaceport of Laubenstein.</desc>
 			<faction>OZP</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -62363,7 +62350,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -62567,7 +62554,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -62641,7 +62628,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -63003,7 +62990,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -63087,7 +63074,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -63352,11 +63339,11 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -63442,7 +63429,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -63532,7 +63519,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -63682,7 +63669,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -63773,7 +63760,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -64097,7 +64084,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -64490,7 +64477,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -64669,7 +64656,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -64749,7 +64736,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -65111,7 +65098,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -65354,7 +65341,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -65492,7 +65479,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -65662,7 +65649,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -65779,7 +65766,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -66242,7 +66229,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -66289,7 +66276,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -66333,7 +66320,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -66584,7 +66571,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -66752,7 +66739,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -66878,7 +66865,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -66977,7 +66964,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -67267,7 +67254,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -67383,11 +67370,11 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -67485,7 +67472,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -67735,7 +67722,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -68223,7 +68210,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -68275,7 +68262,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -68770,7 +68757,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -69096,7 +69083,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -69171,7 +69158,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -69411,7 +69398,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -69732,7 +69719,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -69874,7 +69861,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -70072,7 +70059,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -70138,7 +70125,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -70170,11 +70157,11 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
-			<date>3145-01-01</date>
+			<date>3139-07-03</date>
 			<faction>FWL</faction>
 		</factionChange>
 	</planet>
@@ -70275,7 +70262,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -70524,7 +70511,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -70752,7 +70739,7 @@ spaceport of Laubenstein.</desc>
 			<faction>DC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -70788,7 +70775,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 	</planet>
@@ -70854,7 +70841,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -70927,7 +70914,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -71114,7 +71101,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -71331,7 +71318,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -71509,7 +71496,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>4</pressure>
@@ -71615,7 +71602,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -71678,7 +71665,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -71833,7 +71820,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -72031,7 +72018,7 @@ spaceport of Laubenstein.</desc>
 			<faction>LA</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<pressure>3</pressure>
@@ -72079,7 +72066,7 @@ spaceport of Laubenstein.</desc>
 			<faction>FWL</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3079-01-28</date>
 			<faction>IND</faction>
 		</factionChange>
 		<factionChange>
@@ -72149,7 +72136,7 @@ spaceport of Laubenstein.</desc>
 			<faction>Stone</faction>
 		</factionChange>
 		<factionChange>
-			<date>3081-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
@@ -72230,7 +72217,7 @@ spaceport of Laubenstein.</desc>
 			<faction>CC</faction>
 		</factionChange>
 		<factionChange>
-			<date>3085-01-01</date>
+			<date>3081-03-07</date>
 			<faction>ROS</faction>
 		</factionChange>
 		<factionChange>
