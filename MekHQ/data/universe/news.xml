@@ -309,7 +309,7 @@ location - an optional tag for the location of the news report
 	<newsItem>
 		<headline>New Mercenary Brigade arrives at Delo IV</headline>
 		<date>3005-05</date>
-		<desc><![CDATA[Filed 30005-04-11<br><br>A surprise that no world would welcome happened in the Delo IV system. Jumping in was not one or two jumpships but 7+ jumpships all loaded to bear with military dropships. To further add to the surprise was a message stating simply "I am Colonal Jamie Wolf, I come in peace."]]></desc>
+		<desc><![CDATA[Filed 3005-04-11<br><br>A surprise that no world would welcome happened in the Delo IV system. Jumping in was not one or two jumpships but 7+ jumpships all loaded to bear with military dropships. To further add to the surprise was a message stating simply "I am Colonal Jamie Wolf, I come in peace."]]></desc>
 		<service>CNB</service>
 		<location>Delo IV</location>
 	</newsItem>
@@ -319,6 +319,41 @@ location - an optional tag for the location of the news report
 		<desc><![CDATA[Filed 3005-09-25<br><br>While the Ceti Hussars were raiding Indicass, another battle was being fought on Kittery. A heavy assault force landed and secured the world for the Federated Suns. However, with the current unhappiness the military governor has a long road ahead of them for the hearts and minds of Kittery's populous.]]></desc>
 		<service>FSNN</service>
 		<location>Kittery</location>
+	</newsItem>
+	<newsItem>
+		<headline>Halloran V cleared of Capellan hostiles</headline>
+		<date>3006-03</date>
+		<desc><![CDATA[Filed 3006-02-27<br><br>In a stunning show of fighting the Wolf Dragoons, a newly signed mercenary brigade of House Davion, routed both the Blackwind Lancers and Marion's Highlanders from Halloran V. The question on most minds here on New Avalon is how the Capellans were able to deploy two regiments to a Davion world and use it as a raiding staging point for so long?]]></desc>
+		<service>FSNN</service>
+		<location>New Avalon</location>
+	</newsItem>
+	<newsItem>
+		<headline>Coventry Metal Work's Battlemech facilty damaged</headline>
+		<date>3006-10</date>
+		<desc><![CDATA[Filed 3006-07-20<br>(Broadcasted by CNB 3006-09-30)<br><br></br><i>Smoke raises from multiple scarred buildings along a roadway leading towards a complex in the distance as they continue to burn or teeter in threat of collapse</i><br>I am standing in front of the damaged Battlemech facility on Coventry. A world deep within our great Lyran Commonwealth, a planet far from the borders of the League and the genocidal Kurita. We have been attacked and suffered raids on Bolan, Pollux, Alarion and now Coventry. The one question I have is Where is the LCAF? Where are our defenders? Where were they while the Fourth Regulan Hussars rampaged through our world? Archon, Where are they?]]></desc>
+		<service>CNB</service>
+		<location>Coventry</location>
+	</newsItem>
+	<newsItem>
+		<headline>Sytk raided by Wolf Dragoons</headline>
+		<date>3006-12</date>
+		<desc><![CDATA[Styk is the latest target by the Wolf Dragoons, feeling under confident when facing the glorious warriors of our Confederation they deployed two whole regiments in an attempt to overwhelm us. This proved true when our Fourth Confederation Reserve Cavalry attacked them at Hegemony Bay on Styk and forced them to retreat not just from our world but also from the realm itself.]]></desc>
+		<service>CBS</service>
+		<location>Styk</location>
+	</newsItem>
+	<newsItem>
+		<headline>Wild Geese forms up</headline>
+		<date>3006</date>
+		<desc><![CDATA[A new mech force has registered with the review board, calling itself the "Wild Geese". We look forward to seeing how this unit performs in the future]]></desc>
+		<service>MercNet</service>
+		<location>Galatea</location>
+	</newsItem>Julian Tiepolo
+	<newsItem>
+		<headline>A new Primus for Comstar</headline>
+		<date>3006</date>
+		<desc><![CDATA[Comstar announced today that the Primus Allen Rusenstein, the leader for the last twelve years, has stepped down to allow another worthy gentleman to lead our blessed order. Primus Julian Tiepolo was sworn in this morning.]]></desc>
+		<service>CNB</service>
+		<location>Terra</location>
 	</newsItem>
 	<newsItem>
 		<headline>Archon Married</headline>
