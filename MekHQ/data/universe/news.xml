@@ -356,6 +356,63 @@ location - an optional tag for the location of the news report
 		<location>Terra</location>
 	</newsItem>
 	<newsItem>
+		<headline>New Valencia raided or was Wolf's Dragoons Targeted?</headline>
+		<date>3007-02</date>
+		<desc><![CDATA[Filed 3007-01-30<br><br>This is Caprice Ackerman for FSNN. I am standing at the edge of what was a small town as part of the Wolf's Dragoons warrior hold.<br><i>
+Buildings behind the anchor are jagged piles rubble through which small figures are moving around.</i><br>While the people were wary of the new mercenaries when they first arrived they quickly came to accept them. That is until this last month when three regiments of the McCarron Armored Cavalry landed and began their assault. After a two-day battle, during which Dragoon forces extracted their dependents from Raiteland, the McCarron Mechwarriors captured the town. This was a stepping-stone for most the Capellan forces before the siege of Fort Jamie and while the valor of the mercenaries is not in question. It was here that the Federated Suns citizens fought the true battle as the remaining McCarron soldiers rounded up people by the dozens searching for those dependents who were long gone. When finding their objective proved elusive the Capellan mercenaries, began to execute the collected citizens and dump them in a mass grave.<br><i>Shouts in the background as people start running towards a pile of rubble.</i><br>We may never know how much worse things would have gotten if Prince Ian Davion had not heard of his citizen's problems and dispatched the Eridani Light Horse to relieve them. Causing the McCarron Armored Calvry to retreat from the world.]]></desc>
+		<service>FSNN</service>
+		<location>New Valencia</location>
+	</newsItem>
+	<newsItem>
+		<headline>Menke's defense sabotaged</headline>
+		<date>3007-04</date>
+		<desc><![CDATA[Filed 3007-02-30<br><br>In the early morning hours, The McCarron Armored Cavalry suffered a set back among the regiments stationed in Menke last night. In an interesting set of timed events. Explosions at each of the five regimental supply depots occured. Causing fires to sweep through the surrounding areas as well as crippling whole companies of Battlemechs currently being repaired or serviced.]]></desc>
+		<service>CBN</service>
+		<location>Menke</location>
+	</newsItem>
+	<newsItem>
+		<headline>Rochelle a battle ground of FWL/LCAF or Greed?</headline>
+		<date>3007-08</date>
+		<desc><![CDATA[Filed 3007-07-23<br><br>Rochelle was won by the Free World League but at what price. Seventy percent of all units assigned to blunt the Steiner attack were destroyed, the majority of those being small mercenary commands. One mercenary command did come through intact, McFinney's Manglers, and even expanded from its original hiring size. However, Captain-General Jano Marik only saw hardware to rebuild the FWLM and attempted to use legal trickery to acquire those resources. McFinney's Manglers, refused to hand over their mechs and become members of the Dispossessed. In a running battle through the battlefields of Rochelle, the Manglers were able to escape the Captain-General. Where they go from here is unknown. ]]></desc>
+		<service>CNB</service>
+		<location>Rochelle</location>
+	</newsItem>
+	<newsItem> Date is non-canon ... conflicting timelines, You just got love them
+		<headline>Twenty-First Marik Militia Command Staff Captured</headline>
+		<date>3007-10</date>
+		<desc><![CDATA[Filed 3007-09-19<br><br>In what has to be the greatest achivement of the 21st Marik Militia's poor luck in recent memory has resulted in their entire command staff being captured by the LCAF on Danais.<br>When the Snord Irregulars broke contact with the enemy to "search for artifacts", they had no clue that they were about to engage the Command Lance of Amber Regiment. However, thats what happened and the rest was history as they say.]]></desc>
+		<service>IMI</service>
+		<location>Danais</location>
+	</newsItem>
+	<newsItem>
+		<headline>Deneb Light Cavalry Repulsed... Again</headline>
+		<date>3007</date>
+		<desc><![CDATA[New Hessen proves itself a tough nut to crack as the Deneb Light Cavalry as they square off against Ariana Grenadiers, who repulsed Deneb Light Cavalry back in 2998. Our sources have no information as to how the Grenadiers were able to withstand such an respected unit but New Hessen remains in Capellan hands for now.]]></desc>
+		<service>FSNN</service>
+		<location>New Hessen</location>
+	</newsItem>
+	<newsItem>
+		<headline></headline>
+		<date>3007-11</date>
+		<desc><![CDATA[Filed 3007-09-28<br><br>If you were wondering where Gamma and Delta Regiments of the new brigade Wolf's Dragoon disappear to... You would have to look to the Periphery, the Tortuga Domainions to be esact. Landing on New Hati, a world under Lord Kalvin Bar-Dyness Dominion, the two regiments proceeded to lay waste to the pirates and bandit forces that have been raiding the Federated Suns for years. We have high hopes that this will quiet the pirates for a number of years in the future but we can never know.]]></desc>
+		<service>FSNN</service>
+		<location>Filtvelt</location>
+	</newsItem>
+	<newsItem>
+		<headline>Capellan Confederation's Flag flys over New Aragon Again</headline>
+		<date>3008-02</date>
+		<desc><![CDATA[Filed 3008-01-01<br><br>In a turn of events more than seventy years in the making, The Capellan Confederation has reclaimed New Aragon this morning after pushing aside the defenders. New Aragon had previously been captured in 2930 due to the betrayal of the Armistice of Van Diemen IV by Field Marshal Peter Davion and his father First Prince Joseph Davion II. Now Chancellor Maximilian Liao has made right this injustice.]]></desc>
+		<service>CBS</service>
+		<location>New Aragon</location>
+	</newsItem>
+	<newsItem>
+		<headline>New Aragon a Battleground Again</headline>
+		<date>3008-04</date>
+		<desc><![CDATA[Filed 3008-03-29<br><br>This is Jarrod Pender, reporting from a dropship inbound to the planet of New Aragon. We just heard the speech by the First Prince, and I have to say morale is at an all time high as we wait to see the first battles of this campaign. We promised our citizens on New Aragon that they will not be subjected to Confederation dogma for long.]]></desc>
+		<service>FSNN</service>
+		<location>New Aragon</location>
+	</newsItem>
+	<newsItem>
 		<headline>Archon Married</headline>
 		<date>3009-03-18</date>
 		<desc><![CDATA[According to officials on Tharkad, Archon Katrina Steiner married long-time lover and Duke of Donegal, Arthur Luvon less than a week ago. The Lyran Commonwealth is celebration the wedding of their beloved Archon. Archon Steiner and Duke Luvon have been romantically linked since at least 3005 - hopefully the marriage of the two will produce an heir and quiet some of the current pretenders to the Lyran throne. That is all for our Commonwealth Update - back to local news.]]></desc>
