@@ -252,7 +252,7 @@ location - an optional tag for the location of the news report
 	</newsItem>
 	<newsItem>
 		<headline>Death Commandos to take new recruits</headline>
-		<date>3003-02</date>
+		<date>3003-2</date>
 		<desc><![CDATA[Filed 3003-01-16<br><br>The Chancellor announced today, that the cream of CCAF would be given the chance to advance further in the cause of the Confederation by joining the Death Commandos.]]></desc>
 		<service>CBS</service>
 		<location>Capalla</location>
@@ -309,7 +309,7 @@ location - an optional tag for the location of the news report
 	<newsItem>
 		<headline>New Mercenary Brigade arrives at Delo IV</headline>
 		<date>3005-05</date>
-		<desc><![CDATA[Filed 3005-04-11<br><br>A surprise that no world would welcome happened in the Delo IV system. Jumping in was not one or two jumpships but 7+ jumpships all loaded to bear with military dropships. To further add to the surprise was a message stating simply "I am Colonal Jamie Wolf, I come in peace."]]></desc>
+		<desc><![CDATA[Filed 30005-04-11<br><br>A surprise that no world would welcome happened in the Delo IV system. Jumping in was not one or two jumpships but 7+ jumpships all loaded to bear with military dropships. To further add to the surprise was a message stating simply "I am Colonal Jamie Wolf, I come in peace."]]></desc>
 		<service>CNB</service>
 		<location>Delo IV</location>
 	</newsItem>
@@ -413,11 +413,39 @@ Buildings behind the anchor are jagged piles rubble through which small figures 
 		<location>New Aragon</location>
 	</newsItem>
 	<newsItem>
+		<headline>New Aragon, a Federated Suns planet</headline>
+		<date>3008-07</date>
+		<desc><![CDATA[Filed 3008-06-01<br><br>Back in late March of this year, a task force was created and deployed to the world of New Aragon to reclaim it in the name of the Federated Suns. The Generals in charge of the campaign have declared that the Capellan Confederation's soldiers are no longer on New Aragon. When the task force deployed they were facing an estimated 7 Mech Regiments, however this didn't stop the task force from completing is job and restoring New Aragon to the freedoms of the Federated Suns. This is Jarrod Pender, reporting from Argos on New Aragon.]]></desc>
+		<service>FSNN</service>
+		<location>New Aragon</location>
+	</newsItem>
+	<newsItem>
 		<headline>Archon Married</headline>
 		<date>3009-03-18</date>
 		<desc><![CDATA[According to officials on Tharkad, Archon Katrina Steiner married long-time lover and Duke of Donegal, Arthur Luvon less than a week ago. The Lyran Commonwealth is celebration the wedding of their beloved Archon. Archon Steiner and Duke Luvon have been romantically linked since at least 3005 - hopefully the marriage of the two will produce an heir and quiet some of the current pretenders to the Lyran throne. That is all for our Commonwealth Update - back to local news.]]></desc>
 		<service>TBC</service>
 		<location>Tharkad</location>
+	</newsItem>
+	<newsItem>
+		<headline>New Imperator to lead the Marion Hegemony</headline>
+		<date>3009</date>
+		<desc><![CDATA[Comstar News Bureau was informed today of the death of Imperator Gaius O'Reilly. His son Imperator Marius O'Reilly has already taken up leadership of the small Periphery realm of Marion Hegemony.]]></desc>
+		<service>CNB</service>
+		<location>Alphard</location>
+	</newsItem>
+	<newsItem>
+		<headline>Alula Australis raided by Lyran Commonwealth</headline>
+		<date>3009</date>
+		<desc><![CDATA[In a pitched battle, the FWL were able to cut off the 19th Lyran Guards after their landing on world. This was in thanks to a heavy aerospace strike force, however when the base was discovered and crippled. The raid was all the more destructive to this minor world.]]></desc>
+		<service>TBC</service>
+		<location>Alula Australis</location>
+	</newsItem>
+	<newsItem>
+		<headline>New mech design from Merc Unit?</headline>
+		<date>3009-12</date>
+		<desc><![CDATA[Filed 3009-11-01<br><br>Marching around the training fields of the Wolf's Dragoons, after their return from a refit and resupply mission, are several mech designs that have not been seen before. We will keep you update as we learn more about this mystery.]]></desc>
+		<service>CNB</service>
+		<location>New Valencia</location>
 	</newsItem>
 	<newsItem>
 		<headline>Heir to the Throne</headline>
@@ -439,6 +467,20 @@ Buildings behind the anchor are jagged piles rubble through which small figures 
 		<desc><![CDATA[It is a sad day for the Commonwealth and especially Archon Katrina and her infant daughter Melissa - we have just received an official report that Arthur Luvon, Duke of Donegal, husband to Archon Katrina, and father to Melissa, passed away yesterday. Duke Luvon has reportedly been battling cancer for some time now. Those of us here at Donegal Broadcasting were deeply saddened by the loss of our Duke and our condolences go out to the royal family.]]></desc>
 		<service>DBC</service>
 		<location>Donegal</location>
+	</newsItem>
+	<newsItem>
+		<headline>Wolf's Dragoons to serve Confederation</headline>
+		<date>3010-08</date>
+		<desc><![CDATA[Filed 3010-07-06<br><br>In the face of extra generous terms from House Davion to retain the brigade of mercenaries who have had such success in the last 5 years, The Wolf Dragoons have signed a contract with the Confederation. We wait and see how a realm that was screaming for their blood just a few years ago is now their employer will turn out for the mercenaries.]]></desc>
+		<service>MercNet</service>
+		<location>New Valencia</location>
+	</newsItem>
+	<newsItem>
+		<headline>Ceti Hussars on St Loris</headline>
+		<date>3010</date>
+		<desc><![CDATA[Two Regiments of the Federated Suns brigade "Ceti Hussars" attacked St Loris earlier this month. They were met by members of the 2nd St Ives Lancers, who were able to repulse the regiments after a fierce battle. However, the Federated Suns accomplished an objective before such a repulsing occurred; the entire crop of St Loris was put to the torch. The Chancellor has already announced that steps will be taken to prevent widespread famine on those worlds serviced by St Loris.]]></desc>
+		<service>CBS</service>
+		<location>ST Loris</location>
 	</newsItem>
 	<newsItem>
 		<headline>8th Galedon Regulars Formed</headline>
