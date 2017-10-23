@@ -321,11 +321,131 @@ location - an optional tag for the location of the news report
 		<location>Kittery</location>
 	</newsItem>
 	<newsItem>
+		<headline>Halloran V cleared of Capellan hostiles</headline>
+		<date>3006-03</date>
+		<desc><![CDATA[Filed 3006-02-27<br><br>In a stunning show of fighting the Wolf Dragoons, a newly signed mercenary brigade of House Davion, routed both the Blackwind Lancers and Marion's Highlanders from Halloran V. The question on most minds here on New Avalon is how the Capellans were able to deploy two regiments to a Davion world and use it as a raiding staging point for so long?]]></desc>
+		<service>FSNN</service>
+		<location>New Avalon</location>
+	</newsItem>
+	<newsItem>
+		<headline>Coventry Metal Work's Battlemech facilty damaged</headline>
+		<date>3006-10</date>
+		<desc><![CDATA[Filed 3006-07-20<br>(Broadcasted by CNB 3006-09-30)<br><br></br><i>Smoke raises from multiple scarred buildings along a roadway leading towards a complex in the distance as they continue to burn or teeter in threat of collapse</i><br>I am standing in front of the damaged Battlemech facility on Coventry. A world deep within our great Lyran Commonwealth, a planet far from the borders of the League and the genocidal Kurita. We have been attacked and suffered raids on Bolan, Pollux, Alarion and now Coventry. The one question I have is Where is the LCAF? Where are our defenders? Where were they while the Fourth Regulan Hussars rampaged through our world? Archon, Where are they?]]></desc>
+		<service>CNB</service>
+		<location>Coventry</location>
+	</newsItem>
+	<newsItem>
+		<headline>Sytk raided by Wolf Dragoons</headline>
+		<date>3006-12</date>
+		<desc><![CDATA[Styk is the latest target by the Wolf Dragoons, feeling under confident when facing the glorious warriors of our Confederation they deployed two whole regiments in an attempt to overwhelm us. This proved true when our Fourth Confederation Reserve Cavalry attacked them at Hegemony Bay on Styk and forced them to retreat not just from our world but also from the realm itself.]]></desc>
+		<service>CBS</service>
+		<location>Styk</location>
+	</newsItem>
+	<newsItem>
+		<headline>Wild Geese forms up</headline>
+		<date>3006</date>
+		<desc><![CDATA[A new mech force has registered with the review board, calling itself the "Wild Geese". We look forward to seeing how this unit performs in the future]]></desc>
+		<service>MercNet</service>
+		<location>Galatea</location>
+	</newsItem>Julian Tiepolo
+	<newsItem>
+		<headline>A new Primus for Comstar</headline>
+		<date>3006</date>
+		<desc><![CDATA[Comstar announced today that the Primus Allen Rusenstein, the leader for the last twelve years, has stepped down to allow another worthy gentleman to lead our blessed order. Primus Julian Tiepolo was sworn in this morning.]]></desc>
+		<service>CNB</service>
+		<location>Terra</location>
+	</newsItem>
+	<newsItem>
+		<headline>New Valencia raided or was Wolf's Dragoons Targeted?</headline>
+		<date>3007-02</date>
+		<desc><![CDATA[Filed 3007-01-30<br><br>This is Caprice Ackerman for FSNN. I am standing at the edge of what was a small town as part of the Wolf's Dragoons warrior hold.<br><i>
+Buildings behind the anchor are jagged piles rubble through which small figures are moving around.</i><br>While the people were wary of the new mercenaries when they first arrived they quickly came to accept them. That is until this last month when three regiments of the McCarron Armored Cavalry landed and began their assault. After a two-day battle, during which Dragoon forces extracted their dependents from Raiteland, the McCarron Mechwarriors captured the town. This was a stepping-stone for most the Capellan forces before the siege of Fort Jamie and while the valor of the mercenaries is not in question. It was here that the Federated Suns citizens fought the true battle as the remaining McCarron soldiers rounded up people by the dozens searching for those dependents who were long gone. When finding their objective proved elusive the Capellan mercenaries, began to execute the collected citizens and dump them in a mass grave.<br><i>Shouts in the background as people start running towards a pile of rubble.</i><br>We may never know how much worse things would have gotten if Prince Ian Davion had not heard of his citizen's problems and dispatched the Eridani Light Horse to relieve them. Causing the McCarron Armored Calvry to retreat from the world.]]></desc>
+		<service>FSNN</service>
+		<location>New Valencia</location>
+	</newsItem>
+	<newsItem>
+		<headline>Menke's defense sabotaged</headline>
+		<date>3007-04</date>
+		<desc><![CDATA[Filed 3007-02-30<br><br>In the early morning hours, The McCarron Armored Cavalry suffered a set back among the regiments stationed in Menke last night. In an interesting set of timed events. Explosions at each of the five regimental supply depots occured. Causing fires to sweep through the surrounding areas as well as crippling whole companies of Battlemechs currently being repaired or serviced.]]></desc>
+		<service>CBN</service>
+		<location>Menke</location>
+	</newsItem>
+	<newsItem>
+		<headline>Rochelle a battle ground of FWL/LCAF or Greed?</headline>
+		<date>3007-08</date>
+		<desc><![CDATA[Filed 3007-07-23<br><br>Rochelle was won by the Free World League but at what price. Seventy percent of all units assigned to blunt the Steiner attack were destroyed, the majority of those being small mercenary commands. One mercenary command did come through intact, McFinney's Manglers, and even expanded from its original hiring size. However, Captain-General Jano Marik only saw hardware to rebuild the FWLM and attempted to use legal trickery to acquire those resources. McFinney's Manglers, refused to hand over their mechs and become members of the Dispossessed. In a running battle through the battlefields of Rochelle, the Manglers were able to escape the Captain-General. Where they go from here is unknown. ]]></desc>
+		<service>CNB</service>
+		<location>Rochelle</location>
+	</newsItem>
+	<newsItem> Date is non-canon ... conflicting timelines, You just got love them
+		<headline>Twenty-First Marik Militia Command Staff Captured</headline>
+		<date>3007-10</date>
+		<desc><![CDATA[Filed 3007-09-19<br><br>In what has to be the greatest achivement of the 21st Marik Militia's poor luck in recent memory has resulted in their entire command staff being captured by the LCAF on Danais.<br>When the Snord Irregulars broke contact with the enemy to "search for artifacts", they had no clue that they were about to engage the Command Lance of Amber Regiment. However, thats what happened and the rest was history as they say.]]></desc>
+		<service>IMI</service>
+		<location>Danais</location>
+	</newsItem>
+	<newsItem>
+		<headline>Deneb Light Cavalry Repulsed... Again</headline>
+		<date>3007</date>
+		<desc><![CDATA[New Hessen proves itself a tough nut to crack as the Deneb Light Cavalry as they square off against Ariana Grenadiers, who repulsed Deneb Light Cavalry back in 2998. Our sources have no information as to how the Grenadiers were able to withstand such an respected unit but New Hessen remains in Capellan hands for now.]]></desc>
+		<service>FSNN</service>
+		<location>New Hessen</location>
+	</newsItem>
+	<newsItem>
+		<headline></headline>
+		<date>3007-11</date>
+		<desc><![CDATA[Filed 3007-09-28<br><br>If you were wondering where Gamma and Delta Regiments of the new brigade Wolf's Dragoon disappear to... You would have to look to the Periphery, the Tortuga Domainions to be esact. Landing on New Hati, a world under Lord Kalvin Bar-Dyness Dominion, the two regiments proceeded to lay waste to the pirates and bandit forces that have been raiding the Federated Suns for years. We have high hopes that this will quiet the pirates for a number of years in the future but we can never know.]]></desc>
+		<service>FSNN</service>
+		<location>Filtvelt</location>
+	</newsItem>
+	<newsItem>
+		<headline>Capellan Confederation's Flag flys over New Aragon Again</headline>
+		<date>3008-02</date>
+		<desc><![CDATA[Filed 3008-01-01<br><br>In a turn of events more than seventy years in the making, The Capellan Confederation has reclaimed New Aragon this morning after pushing aside the defenders. New Aragon had previously been captured in 2930 due to the betrayal of the Armistice of Van Diemen IV by Field Marshal Peter Davion and his father First Prince Joseph Davion II. Now Chancellor Maximilian Liao has made right this injustice.]]></desc>
+		<service>CBS</service>
+		<location>New Aragon</location>
+	</newsItem>
+	<newsItem>
+		<headline>New Aragon a Battleground Again</headline>
+		<date>3008-04</date>
+		<desc><![CDATA[Filed 3008-03-29<br><br>This is Jarrod Pender, reporting from a dropship inbound to the planet of New Aragon. We just heard the speech by the First Prince, and I have to say morale is at an all time high as we wait to see the first battles of this campaign. We promised our citizens on New Aragon that they will not be subjected to Confederation dogma for long.]]></desc>
+		<service>FSNN</service>
+		<location>New Aragon</location>
+	</newsItem>
+	<newsItem>
+		<headline>New Aragon, a Federated Suns planet</headline>
+		<date>3008-07</date>
+		<desc><![CDATA[Filed 3008-06-01<br><br>Back in late March of this year, a task force was created and deployed to the world of New Aragon to reclaim it in the name of the Federated Suns. The Generals in charge of the campaign have declared that the Capellan Confederation's soldiers are no longer on New Aragon. When the task force deployed they were facing an estimated 7 Mech Regiments, however this didn't stop the task force from completing is job and restoring New Aragon to the freedoms of the Federated Suns. This is Jarrod Pender, reporting from Argos on New Aragon.]]></desc>
+		<service>FSNN</service>
+		<location>New Aragon</location>
+	</newsItem>
+	<newsItem>
 		<headline>Archon Married</headline>
 		<date>3009-03-18</date>
 		<desc><![CDATA[According to officials on Tharkad, Archon Katrina Steiner married long-time lover and Duke of Donegal, Arthur Luvon less than a week ago. The Lyran Commonwealth is celebration the wedding of their beloved Archon. Archon Steiner and Duke Luvon have been romantically linked since at least 3005 - hopefully the marriage of the two will produce an heir and quiet some of the current pretenders to the Lyran throne. That is all for our Commonwealth Update - back to local news.]]></desc>
 		<service>TBC</service>
 		<location>Tharkad</location>
+	</newsItem>
+	<newsItem>
+		<headline>New Imperator to lead the Marion Hegemony</headline>
+		<date>3009</date>
+		<desc><![CDATA[Comstar News Bureau was informed today of the death of Imperator Gaius O'Reilly. His son Imperator Marius O'Reilly has already taken up leadership of the small Periphery realm of Marion Hegemony.]]></desc>
+		<service>CNB</service>
+		<location>Alphard</location>
+	</newsItem>
+	<newsItem>
+		<headline>Alula Australis raided by Lyran Commonwealth</headline>
+		<date>3009</date>
+		<desc><![CDATA[In a pitched battle, the FWL were able to cut off the 19th Lyran Guards after their landing on world. This was in thanks to a heavy aerospace strike force, however when the base was discovered and crippled. The raid was all the more destructive to this minor world.]]></desc>
+		<service>TBC</service>
+		<location>Alula Australis</location>
+	</newsItem>
+	<newsItem>
+		<headline>New mech design from Merc Unit?</headline>
+		<date>3009-12</date>
+		<desc><![CDATA[Filed 3009-11-01<br><br>Marching around the training fields of the Wolf's Dragoons, after their return from a refit and resupply mission, are several mech designs that have not been seen before. We will keep you update as we learn more about this mystery.]]></desc>
+		<service>CNB</service>
+		<location>New Valencia</location>
 	</newsItem>
 	<newsItem>
 		<headline>Heir to the Throne</headline>
@@ -347,6 +467,20 @@ location - an optional tag for the location of the news report
 		<desc><![CDATA[It is a sad day for the Commonwealth and especially Archon Katrina and her infant daughter Melissa - we have just received an official report that Arthur Luvon, Duke of Donegal, husband to Archon Katrina, and father to Melissa, passed away yesterday. Duke Luvon has reportedly been battling cancer for some time now. Those of us here at Donegal Broadcasting were deeply saddened by the loss of our Duke and our condolences go out to the royal family.]]></desc>
 		<service>DBC</service>
 		<location>Donegal</location>
+	</newsItem>
+	<newsItem>
+		<headline>Wolf's Dragoons to serve Confederation</headline>
+		<date>3010-08</date>
+		<desc><![CDATA[Filed 3010-07-06<br><br>In the face of extra generous terms from House Davion to retain the brigade of mercenaries who have had such success in the last 5 years, The Wolf Dragoons have signed a contract with the Confederation. We wait and see how a realm that was screaming for their blood just a few years ago is now their employer will turn out for the mercenaries.]]></desc>
+		<service>MercNet</service>
+		<location>New Valencia</location>
+	</newsItem>
+	<newsItem>
+		<headline>Ceti Hussars on St Loris</headline>
+		<date>3010</date>
+		<desc><![CDATA[Two Regiments of the Federated Suns brigade "Ceti Hussars" attacked St Loris earlier this month. They were met by members of the 2nd St Ives Lancers, who were able to repulse the regiments after a fierce battle. However, the Federated Suns accomplished an objective before such a repulsing occurred; the entire crop of St Loris was put to the torch. The Chancellor has already announced that steps will be taken to prevent widespread famine on those worlds serviced by St Loris.]]></desc>
+		<service>CBS</service>
+		<location>ST Loris</location>
 	</newsItem>
 	<newsItem>
 		<headline>8th Galedon Regulars Formed</headline>
